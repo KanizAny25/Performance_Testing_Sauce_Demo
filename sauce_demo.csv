@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Filename,Latency,IdleTime,Connect
+1677394748817,11536,Demo Saucedemo Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,User Group 1-840,text,false,,2685,0,405,405,https://www.saucedemo.com//,,0,0,11536
+1677394748797,11556,Demo Saucedemo Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,User Group 1-838,text,false,,2685,0,405,405,https://www.saucedemo.com//,,0,0,11556
+1677394748807,11546,Demo Saucedemo Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,User Group 1-839,text,false,,2685,0,405,405,https://www.saucedemo.com//,,0,0,11546
+1677394748477,12242,Demo Saucedemo Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,User Group 1-806,text,false,,2685,0,338,338,https://www.saucedemo.com//,,0,0,12242
+1677394748130,51119,Demo Saucedemo Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,User Group 1-771,text,false,,2012,0,5,5,https://www.saucedemo.com//,,0,0,6372
+1677394748029,51219,Demo Saucedemo Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,User Group 1-761,text,false,,2859,0,5,5,https://www.saucedemo.com//,,0,0,6263
+1677394748120,51131,Demo Saucedemo Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,User Group 1-770,text,false,,2859,0,3,3,https://www.saucedemo.com//,,0,0,7168
+1677394748310,50943,Demo Saucedemo Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,User Group 1-789,text,false,,2012,0,2,2,https://www.saucedemo.com//,,0,0,7696
+1677394748024,51231,Demo Saucedemo Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,User Group 1-760,text,false,,2012,0,1,1,https://www.saucedemo.com//,,0,0,6209
